@@ -3,15 +3,13 @@
 This is an analysis of a healthcare dataset consisting of hospital patient and finance information.
 
 
-Data Used
+## Data Used
 
 Data – Healthcare Hospital data from the year of 2019 to 2024 
-
 Data Cleaning & Analysis – Excel, Postgresql 
-
 Data Visualization – Tableau 
 
- 
+## Questions
 
 How many hospitals are in the network? 
 
@@ -31,7 +29,7 @@ Which medical condition had the highest billing charged?
 
 Which medical condition had the least number of billed charged? 
 
- 
+## Question Responses
 
 There are 1,074 unique hospitals in this network. 
 
