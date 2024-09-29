@@ -79,6 +79,7 @@ In Q3 of 2021, diabetes had the highest billing charged.
 In Q2 of 2019, arthritis had the least charges billed then.  
 
  
+![aggregate bill cost - line chart](https://github.com/user-attachments/assets/142022f1-1dd8-4635-b96e-d39ddd78d57d)
 
  
 
