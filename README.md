@@ -9,6 +9,11 @@ Data – Healthcare Hospital data from the year of 2019 to 2024
 Data Cleaning & Analysis – Excel, Postgresql 
 Data Visualization – Tableau 
 
+<img width="723" alt="healthcare dashboard (1)" src="https://github.com/user-attachments/assets/b8dd2ca3-2015-4a59-94a4-1a93431de7bb">
+
+
+
+
 ## Questions
 
 How many hospitals are in the network? 
