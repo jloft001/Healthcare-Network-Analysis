@@ -13,10 +13,6 @@ Data Cleaning & Analysis – Excel, Postgresql
 
 
 
-
-
-
-
 Data Visualization – Tableau 
 
 
